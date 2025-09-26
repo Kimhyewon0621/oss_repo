@@ -6,4 +6,5 @@ Today I learned:
 
 *How to create a repository
 *How to check the status of my repostitory
+*How to solve merge conflicts
 *And more!!
